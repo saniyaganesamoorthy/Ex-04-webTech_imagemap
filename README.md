@@ -209,12 +209,18 @@ The temple has a large temple car called Theeruvadaichan, a silver chariot and a
 
 
 # Output:
-![Alt text](../cuddalore.png)
-![Alt text](<../Screenshot 2023-11-22 181552.png>)
-![Alt text](<../Screenshot 2023-11-22 181616.png>)
-![Alt text](<../Screenshot 2023-11-22 181645.png>)
-![Alt text](<../Screenshot 2023-11-22 181817.png>)
-![Alt text](<../Screenshot 2023-11-22 182021.png>)
+![cuddalore](https://github.com/saniyaganesamoorthy/Ex-04-webTech_imagemap/assets/145742583/dd0be909-8108-4c7f-9451-a8f881c7bde1)
+![Screenshot 2023-11-22 181552](https://github.com/saniyaganesamoorthy/Ex-04-webTech_imagemap/assets/145742583/5d014ec3-d1f0-4019-bfc1-3f7ab06649b5)
+![Screenshot 2023-11-22 181616](https://github.com/saniyaganesamoorthy/Ex-04-webTech_imagemap/assets/145742583/879825bd-8a84-4b08-a3f1-eaa14ac36003)
+![Screenshot 2023-11-22 181645](https://github.com/saniyaganesamoorthy/Ex-04-webTech_imagemap/assets/145742583/11d272a4-a110-47a1-8136-b47b9f839cbe)
+![Screenshot 2023-11-22 181817](https://github.com/saniyaganesamoorthy/Ex-04-webTech_imagemap/assets/145742583/f3218300-96e2-4c05-8623-9795f09f8bda)
+![Screenshot 2023-11-22 182021](https://github.com/saniyaganesamoorthy/Ex-04-webTech_imagemap/assets/145742583/ba63984f-efbe-4d68-8240-06774384b9f3)
+
+
+
+
+
+
 
 # Result:
 The program for implementing image maps using HTML is executed successfully.
